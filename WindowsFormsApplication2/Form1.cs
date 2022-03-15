@@ -1,4 +1,13 @@
-﻿using System;
+<Project Sdc="Microsoft.NET.Sdc">
+
+<PropertyGroup>
+<OutputType>Exe</OutputType>
+<TargetFramework>netcoreapp3.1</TargetFramework>
+</PropertyGroup>
+
+</Project>
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
